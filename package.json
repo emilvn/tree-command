@@ -1,0 +1,13 @@
+{
+  "name": "tree-command",
+  "version": "1.0.0",
+  "description": "This tool traverses and prints out subdirectories and files in a given directory\r using depth-first search.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
